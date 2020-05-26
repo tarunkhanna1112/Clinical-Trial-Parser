@@ -44,5 +44,5 @@ then
   exit 1
 fi
 
-rm "$EXTRACTED_FILE"
-rm "$NER_FILE"
+#rm "$EXTRACTED_FILE"
+#rm "$NER_FILE"
